@@ -13,27 +13,16 @@ This token will have read-only access to public information, and will only be us
 
 _You are probably looking at this in a browser, so we can probably check this off._
 
-## Step 2 - Go to your GitHub "Developer settings"
-
-_And then "Personal access tokens."_
-or click here: [https://github.com/settings/tokens](https://github.com/settings/tokens)
-
-
-## Step 3 - Start generation
-
-Click the "Generate new token" button.
-
-![token1](/img/token1.png)
+## Step 2 - Create a Github Personal Access Token
+[Click here to create a new personal access token](https://github.com/settings/tokens/new?description=HACS)
 
 _If you are asked to login, do so._
 
 ![token2](/img/token2.png)
 
-## Step 4 - Choices
+## Step 3 - Generate Token
 
-First give it a logical name so that you can recognize it.
-
-Then click the "Generate token" button at the bottom.
+Click the "Generate token" button at the bottom.
 
 You **do not** need to check _any_ of the boxes.
 
